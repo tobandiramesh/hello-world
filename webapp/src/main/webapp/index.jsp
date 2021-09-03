@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h3> Datum ka King Yadav Chiranjeevi....</h3>
+<h1> Hello, Welcome to CI/CD demonstration   </h1>
+<h2> Deploy on container using Ansible</h2>
+<marquee behavior="scroll" direction="up">Deploy on container using Ansible by Ramesh Bandi</marquee>
+
